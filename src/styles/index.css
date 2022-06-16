@@ -7,3 +7,11 @@
     font-family: 'Roboto', sans-serif;
   }
 }
+
+@media (max-width: 640px) {
+  .login-container section {
+    margin: 0 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
