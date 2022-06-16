@@ -37,7 +37,7 @@ const Login = () => {
         src={logo}
         alt='company logo' />
 
-      <section className='login-box px-20 py-16 rounded-lg w-[480px] bg-white'> 
+      <section className='px-20 py-16 rounded-lg w-[480px] bg-white z-10'> 
         <h1 className='font-body font-semibold text-[40px] text-txtPrimary text-center mb-2'>Welcome</h1>
         <p className='text-lg text-txtSecondary font-light text-center mb-5'>Log in to your CASEOS account!</p>
         
@@ -69,13 +69,7 @@ const Login = () => {
             type='submit'
             value='Log In' />
         </form>
-      
       </section>
-
-      <img
-        className='absolute bottom-0 opacity-5'
-        src={waves}
-        alt='wave icon' />
     </div>
   )
 }
