@@ -1,4 +1,4 @@
-## This is a web app that demonstrate Login for Schutze
+## This is a web app that demonstrate Login for Schuetze
 
 ## This app consists of 3 pages
 - Login
