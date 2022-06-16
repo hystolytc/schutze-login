@@ -31,7 +31,7 @@ const Login = () => {
     return <Navigate to='/' replace />
   
   return (
-    <div className='login-container relative flex justify-center items-center w-screen h-screen bg-primary'>
+    <div className='login-container relative flex justify-center items-center w-screen min-h-screen py-20 bg-primary'>
       <img 
         className='absolute top-4 left-4 w-80 object-contain'
         src={logo}
