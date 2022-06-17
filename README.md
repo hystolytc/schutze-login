@@ -1,6 +1,6 @@
 ## This is a web app that demonstrate Login for Schuetze
 
-## This app consists of 3 pages
+## This app consists of 2 pages
 - Login
 - Home
 
